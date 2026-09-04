@@ -2,17 +2,17 @@
 
 ## 📊 Project Overview
 
-This project is an interactive HR Analytics Dashboard developed using Microsoft Power BI.
+Created an interactive **HR Analytics Dashboard using Microsoft Power BI** to analyze employee demographics, job satisfaction, overtime, promotion, retrenchment, job levels, and workforce trends.
 
-The dashboard provides insights into employee demographics, job satisfaction, promotion, retrenchment, overtime, job levels, and workforce information.
+The dashboard helps identify important HR patterns and provides actionable insights for workforce management.
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
-- Power BI
+- Microsoft Power BI
 - Power Query
 - DAX
-- Data Visualization
 - Excel
+- Data Visualization
 
 ## 📈 Key Features
 
@@ -26,17 +26,17 @@ The dashboard provides insights into employee demographics, job satisfaction, pr
 - Distance from Office Analysis
 - Employee-level Action Tracking
 
-📸 Dashboard Screenshots
+## 📸 Dashboard Screenshots
 
-### Home Dashboard
+### 🏠 Home Dashboard
 
 ![HR Dashboard Home](screenshots/HR_Dashboard_Home.png)
 
-### Details Dashboard
+### 📊 Details Dashboard
 
 ![HR Dashboard Details](screenshots/HR_Dashboard_Details.png)
 
-### Action Dashboard
+### ⚡ Action Dashboard
 
 ![HR Dashboard Action](screenshots/HR_Dashboard_Action.png)
 
@@ -48,7 +48,7 @@ The objective of this project is to transform HR data into meaningful visual ins
 
 - Data Cleaning
 - Data Transformation
-- DAX
+- DAX & KPI Creation
 - Data Visualization
 - Dashboard Development
 - Business Insights

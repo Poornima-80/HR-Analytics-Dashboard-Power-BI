@@ -29,15 +29,12 @@ The dashboard helps identify important HR patterns and provides actionable insig
 ## 📸 Dashboard Screenshots
 
 ### 🏠 Home Dashboard
-
 ![HR Dashboard Home](screenshots/HR_Dashboard_Home.png)
 
 ### 📊 Details Dashboard
-
 ![HR Dashboard Details](screenshots/HR_Dashboard_Details.png)
 
-### ⚡ Action Dashboard
-
+### 🎯 Action Dashboard
 ![HR Dashboard Action](screenshots/HR_Dashboard_Action.png)
 
 ## 🎯 Objective
